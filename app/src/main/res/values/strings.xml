@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPStested</string>
+    <string name="on_off">ON/OFF</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="gps_disabled">Your GPS seems to be disabled, do you want to enable it?</string>
+</resources>
